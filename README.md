@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henry!</h1>
 <h3 align="center">A passionate Unity developer from South Korea</h3>
 
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry2craftman&label=Profile%20views&color=0e75b6&style=flat" alt="henry2craftman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henry2craftman" alt="henry2craftman" /></a> </p>
